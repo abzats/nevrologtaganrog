@@ -1,0 +1,50 @@
+{
+  "name": "nevrolog",
+  "version": "1.0.0",
+  "description": "Personal site of Igor Margulis",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abzats/nevrologtaganrog.git"
+  },
+  "author": "Sergeev Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abzats/nevrologtaganrog/issues"
+  },
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-bless": "^3.2.1",
+    "gulp-chmod": "^2.0.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-expect-file": "^0.0.7",
+    "gulp-iconfont": "^8.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jscs-stylish": "^1.4.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-shell": "^0.5.2",
+    "gulp-sourcemaps": "^2.2.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.11",
+    "run-sequence": "^1.2.2",
+    "jquery": "^2.2.4"
+  },
+  "devDependencies": {
+    "gulp-env": "^0.4.0",
+    "gulp-expect-file": "0.0.7"
+  },
+  "scripts": {
+    "start": "python -m SimpleHTTPServer"
+  },
+  "homepage": "http://nevrologtaganrog.ru/"
+}
