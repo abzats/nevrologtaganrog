@@ -37,7 +37,7 @@
     "gulp-util": "^3.0.7",
     "gulp-watch": "^4.3.11",
     "run-sequence": "^1.2.2",
-    "jquery": "^2.2.4"
+    "jquery": "^3.0.0"
   },
   "devDependencies": {
     "gulp-env": "^0.4.0",
